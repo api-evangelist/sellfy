@@ -64,5 +64,31 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sellfy is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://sellfy.com/
+Sellfy is an online store builder that enables creators to sell digital products, subscriptions, and physical goods directly to their audience. It offers a clean checkout with zero transaction fees and integrates with PayPal, Stripe, Apple Pay, and Google Pay. Founded in 2011 by Maris Dagis, Sellfy provides a no-code storefront, analytics, marketing tools, and instant digital delivery, helping creators monetize their work without technical barriers.
+
+**Areas:** e-commerce · digital-products · SaaS · payments · creators
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sellfy.com/)
+- [Documentation](https://docs.sellfy.com/)
+- [Getting started](https://docs.sellfy.com/category/372-quick-start-guide)
+- [API reference](https://api.sellfy.com/)
+- [Pricing](https://sellfy.com/pricing/)
+- [Sign up](https://sellfy.com/auth/signup/)
+- [Support](https://docs.sellfy.com/#contact)
+- [Changelog](https://sellfy.com/changelog/)
+- [Blog](https://sellfy.com/blog/)
+- [Security](https://sellfy.com/security/)
+- [Terms of service](https://sellfy.com/terms/)
+- [Privacy policy](https://sellfy.com/privacy/)
+- [GitHub](https://github.com/Sellfy)
+- [Status](https://status.sellfy.com)
+
+**APIs profiled:** 6
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sellfy/](https://apis.io/providers/sellfy/).
